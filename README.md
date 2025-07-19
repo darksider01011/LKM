@@ -1,6 +1,6 @@
 # LKMs
 
-## Setup env for kernel module development
+## Setup environment for kernel module development
 ```bash
   sudo apt update && sudo apt upgrade
 ```
