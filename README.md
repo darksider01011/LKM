@@ -18,7 +18,7 @@
   rmmod module.ko
 ```
 
-# Show kernel log buffer  
+## Show kernel log buffer  
 ```bash
   dmesg
 ```
