@@ -7,3 +7,18 @@
 ```bash
   sudo apt-get install gcc make build-essential libncurses-dev exuberant-ctags build-essential linux-headers-`uname -r`
 ```
+
+## Loading modules  
+```bash
+  insmod module.ko
+```
+
+## Unloadnig module
+```bash
+  rmmod module.ko
+```
+
+# Show kernel log buffer  
+```bash
+  dmesg
+```
